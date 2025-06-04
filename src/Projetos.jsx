@@ -16,7 +16,6 @@ const projetos = [
     desc: "Website responsivo com currículo, projetos e contato integrados.",
     url: "https://seuportfolio.com",
   },
-  // Adicione mais projetos conforme necessário
 ];
 
 export default function Projetos() {
