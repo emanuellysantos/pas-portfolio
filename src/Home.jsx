@@ -31,17 +31,17 @@ export default function Home() {
 			{
 				title: "Sistema de Gestão",
 				desc: "Aplicação web para gerenciamento de tarefas com autenticação e dashboard interativo.",
-				url: "https://github.com/seu-usuario/sistema-gestao"
+				url: "https://github.com/emanuellysantos/pas-portfolio"
 			},
 			{
 				title: "App Financeiro",
 				desc: "Aplicativo móvel para controle financeiro pessoal com gráficos e notificações.",
-				url: "https://github.com/seu-usuario/app-financeiro"
+				url: "https://github.com/emanuellysantos/pas-portfolio"
 			},
 			{
 				title: "Portfolio Pessoal",
 				desc: "Site responsivo para apresentação de portfólio profissional e contatos.",
-				url: "https://seu-site-pessoal.com"
+				url: "https://github.com/emanuellysantos/pas-portfolio"
 			},
 			].map(({ title, desc, url }) => (
 				<article key={title} className="bg-white rounded-2xl p-6 shadow hover:shadow-lg transition cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-300" tabIndex={0} aria-label={`Projeto ${title}`}>
@@ -71,17 +71,17 @@ export default function Home() {
 				{
 					title: "Demo Projeto X",
 					desc: "Vídeo explicativo com demonstração da aplicação e funcionalidades.",
-					url: "https://www.youtube.com/watch?v=demoProjetoX"
+					url: "https://www.youtube.com/watch?v=GBfnNzMdPQk"
 				},
 				{
 					title: "Tutorial React",
 					desc: "Introdução prática ao React para iniciantes.",
-					url: "https://www.youtube.com/watch?v=introReact"
+					url: "https://www.youtube.com/watch?v=GBfnNzMdPQk"
 				},
 				{
 					title: "Apresentação Agile",
 					desc: "Vídeo sobre metodologias ágeis no desenvolvimento.",
-					url: "https://www.youtube.com/watch?v=agileMetodologia"
+					url: "https://www.youtube.com/watch?v=GBfnNzMdPQk"
 				},
 				].map(({ title, desc, url }) => (
 					<article key={title} className="bg-white rounded-2xl p-6 shadow hover:shadow-lg transition cursor-pointer focus:outline-none focus:ring-4 focus:ring-green-300" tabIndex={0} aria-label={`Vídeo ${title}`}>

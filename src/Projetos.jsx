@@ -4,17 +4,32 @@ const projetos = [
   {
     title: "Sistema de Gestão",
     desc: "Web app com autenticação, gerenciamento de tarefas e dashboard interativo.",
-    url: "https://github.com/seuusuario/sistema-gestao",
+    url: "https://github.com/emanuellysantos/pas-portfolio",
   },
   {
     title: "App Financeiro",
     desc: "Aplicativo mobile para controle de gastos, alertas e relatórios visuais.",
-    url: "https://github.com/seuusuario/app-financeiro",
+    url: "https://github.com/emanuellysantos/pas-portfolio",
   },
   {
     title: "Portfolio Pessoal",
     desc: "Website responsivo com currículo, projetos e contato integrados.",
-    url: "https://seuportfolio.com",
+    url: "https://github.com/emanuellysantos/pas-portfolio",
+  },
+  {
+    title: "Sistema de Gestão",
+    desc: "Web app com autenticação, gerenciamento de tarefas e dashboard interativo.",
+    url: "https://github.com/emanuellysantos/pas-portfolio",
+  },
+  {
+    title: "App Financeiro",
+    desc: "Aplicativo mobile para controle de gastos, alertas e relatórios visuais.",
+    url: "https://github.com/emanuellysantos/pas-portfolio",
+  },
+  {
+    title: "Portfolio Pessoal",
+    desc: "Website responsivo com currículo, projetos e contato integrados.",
+    url: "https://github.com/emanuellysantos/pas-portfolio",
   },
 ];
 

@@ -4,17 +4,32 @@ const videos = [
   {
     title: "Demo Projeto X",
     desc: "Apresentação detalhada de uma aplicação real com explicações técnicas.",
-    url: "https://youtube.com/video1",
+    url: "https://www.youtube.com/watch?v=GBfnNzMdPQk",
   },
   {
     title: "Tutorial React",
     desc: "Passo a passo para criar um app React do zero.",
-    url: "https://youtube.com/video2",
+    url: "https://www.youtube.com/watch?v=GBfnNzMdPQk",
   },
   {
     title: "Design Ágil",
     desc: "Vídeo sobre práticas de UX em equipes ágeis.",
-    url: "https://youtube.com/video3",
+    url: "https://www.youtube.com/watch?v=GBfnNzMdPQk",
+  },
+  {
+    title: "Demo Projeto X",
+    desc: "Apresentação detalhada de uma aplicação real com explicações técnicas.",
+    url: "https://www.youtube.com/watch?v=GBfnNzMdPQk",
+  },
+  {
+    title: "Tutorial React",
+    desc: "Passo a passo para criar um app React do zero.",
+    url: "https://www.youtube.com/watch?v=GBfnNzMdPQk",
+  },
+  {
+    title: "Design Ágil",
+    desc: "Vídeo sobre práticas de UX em equipes ágeis.",
+    url: "https://www.youtube.com/watch?v=GBfnNzMdPQk",
   },
 ];
 

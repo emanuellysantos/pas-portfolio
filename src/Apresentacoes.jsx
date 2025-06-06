@@ -16,6 +16,21 @@ const apresentacoes = [
     desc: "Slides sobre princípios de design e heurísticas de usabilidade.",
     url: "https://drive.google.com/file/d/ID_DO_PPT_3/view",
   },
+  {
+    title: "Slides React Básico",
+    desc: "Apresentação sobre os primeiros passos no React para iniciantes.",
+    url: "https://drive.google.com/file/d/ID_DO_PPT_1/view",
+  },
+  {
+    title: "JavaScript Moderno",
+    desc: "Material introdutório sobre ES6+, promessas e funções assíncronas.",
+    url: "https://drive.google.com/file/d/ID_DO_PPT_2/view",
+  },
+  {
+    title: "Design de Interfaces",
+    desc: "Slides sobre princípios de design e heurísticas de usabilidade.",
+    url: "https://drive.google.com/file/d/ID_DO_PPT_3/view",
+  },
 ];
 
 export default function Apresentacoes() {
