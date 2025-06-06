@@ -6,13 +6,13 @@ import { ArrowRight } from "lucide-react";
 
 export default function Home() {
 	return (
-		<main className="min-h-screen bg-gradient-to-br from-blue-50 to-white p-8 font-sans max-w-5xl mx-auto" aria-label="Página inicial do portfólio de Manu">
+		<main className="min-h-screen bg-gradient-to-br from-pink-50 to-white p-8 font-sans max-w-5xl mx-auto" aria-label="Página inicial do portfólio de Manu">
 	<div className="mb-12 flex justify-center">
 		<img src={DeveloperIllustration} alt="Ilustração de desenvolvedor" className="w-72 mx-auto mb-6"/>
 	</div>
 	<section aria-labelledby="sobre-mim" className="mb-20 text-center max-w-3xl mx-auto">
 		<h1 id="sobre-mim" className="text-5xl font-extrabold text-gray-800 mb-4" tabIndex={0}> Olá! Eu sou a
-		<span className="text-blue-600"> Manu</span>
+		<span className="text-pink-600"> Manu</span>
 	</h1>
 	<p className="text-lg text-gray-700 leading-relaxed" tabIndex={0}> Sou uma desenvolvedora apaixonada por tecnologia, focada em construir soluções práticas e elegantes. Neste portfólio, apresento meus projetos, vídeos de apresentações e slides para compartilhar meu trabalho e conhecimento. Esta é uma Produção de Aprendizagem Significativa da disciplina Programação WEB Front-End.
 </p>

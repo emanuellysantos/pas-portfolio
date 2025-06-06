@@ -9,14 +9,14 @@ export default function Navbar() {
   const navItemClass = (path) =>
     `block px-4 py-2 rounded-xl transition ${
       location.pathname === path
-        ? "bg-blue-600 text-white"
-        : "text-gray-700 hover:bg-blue-100"
+        ? "bg-pink-600 text-white"
+        : "text-gray-700 hover:bg-pink-100"
     }`;
 
   return (
     <nav className="fixed top-0 left-0 w-full bg-white shadow-md z-50">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <Link to="/" className="text-2xl font-bold text-blue-600">
+        <Link to="/" className="text-2xl font-bold text-pink-600">
           PAS - Portfólio
         </Link>
 
